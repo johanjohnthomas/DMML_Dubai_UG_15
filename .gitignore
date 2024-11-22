@@ -11,4 +11,6 @@ venv/
 
 # Ignore JupyterLab files
 .jupyterlab/
+
 Datasets/*
+Processed_Images/*
