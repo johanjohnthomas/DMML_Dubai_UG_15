@@ -13,8 +13,6 @@
 
 ---
 
-### **Project Milestones:**
-
 ### **Numerical Dataset:**
 
 - **Link:** [Forest Fires Dataset](https://archive.ics.uci.edu/dataset/162/forest+fires)  
@@ -29,16 +27,21 @@ Example Data:
 
 
 ### **Image Dataset:**
-![image](https://github.com/user-attachments/assets/efd84928-b3ea-4f6c-a3b6-7066f1830d2e)
-
-![image](https://github.com/user-attachments/assets/a389d5a9-844c-4f42-b5ac-29034b3cc5e8)
-
-![image](https://github.com/user-attachments/assets/ea9e5c42-b448-4c8f-aeca-e5afc4fc2681)
-
 
 - **Link:** [The Wildfire Dataset](https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset/data)  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  
+<p>Example Images:</p>
+<img src="https://github.com/user-attachments/assets/a389d5a9-844c-4f42-b5ac-29034b3cc5e8" width="22%" style="margin-right: 100px;" /> 
+<img src="https://github.com/user-attachments/assets/ea9e5c42-b448-4c8f-aeca-e5afc4fc2681" width="45%" />
+
+
+<p>Augmented Images for Data Expansion:</p>
+<img src="https://github.com/user-attachments/assets/efd84928-b3ea-4f6c-a3b6-7066f1830d2e" width="60%" />
+
 
 ---
+
+### **Project Milestones:**
 
 This README outlines the key datasets and resources used in the Wildfire Recognition and Impact Assessment project by **Emberithhms**.
