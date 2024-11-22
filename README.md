@@ -45,6 +45,6 @@ Example Data:
 ### **Project Milestones:**
 Our expected timeline for the project is detailed in the Gantt Chart below, where report writing takes place simultaneously with these tasks:
 
- 
+ ![Screenshot 2024-11-22 225058](https://github.com/user-attachments/assets/023272ab-4c5e-4e5c-b24e-62fc587d0ce0)
 
 This README outlines the key datasets and resources used in the Wildfire Recognition and Impact Assessment project by **Emberithhms**.
