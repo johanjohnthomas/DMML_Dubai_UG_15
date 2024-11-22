@@ -31,6 +31,10 @@ Example Data:
 ### **Image Dataset:**
 ![image](https://github.com/user-attachments/assets/efd84928-b3ea-4f6c-a3b6-7066f1830d2e)
 
+![image](https://github.com/user-attachments/assets/a389d5a9-844c-4f42-b5ac-29034b3cc5e8)
+
+![image](https://github.com/user-attachments/assets/ea9e5c42-b448-4c8f-aeca-e5afc4fc2681)
+
 
 - **Link:** [The Wildfire Dataset](https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset/data)  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
